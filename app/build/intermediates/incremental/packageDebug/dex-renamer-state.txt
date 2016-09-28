@@ -1,0 +1,7 @@
+#Tue Sep 27 23:49:10 BST 2016
+base.0=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/MemorablePlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f5a7508cdc3caab5fa11dc70f6cfd0dfffbf4f30
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/MemorablePlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e62cb7c2a26e53f19148f0b9433d7ce47df0218e/classes.dex
+base.1=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/MemorablePlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e62cb7c2a26e53f19148f0b9433d7ce47df0218e
+file.0=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/MemorablePlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f5a7508cdc3caab5fa11dc70f6cfd0dfffbf4f30/classes.dex
